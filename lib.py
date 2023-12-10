@@ -1,5 +1,5 @@
 import asyncio, requests
-from json_print import json_print 
+
 version = "2.0 BUILD"
 print(f"TF_lib\nверсия: {version}\nНачинаю работу!")
 
