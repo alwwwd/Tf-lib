@@ -17,3 +17,6 @@ python3 bot_source.py
 ```shell
 python3 lib.py
 ```
+## Devs
+alwwwd tg:@alwwwd, github:@alwwwd, discord:@alwwwd.
+
